@@ -1,0 +1,14 @@
+C:\Users\Steph\OneDrive\Documents\Code_Projects\ForEach_Application\LoopApplication\LoopApplication\bin\Debug\netcoreapp3.1\LoopApplication.exe
+C:\Users\Steph\OneDrive\Documents\Code_Projects\ForEach_Application\LoopApplication\LoopApplication\bin\Debug\netcoreapp3.1\LoopApplication.deps.json
+C:\Users\Steph\OneDrive\Documents\Code_Projects\ForEach_Application\LoopApplication\LoopApplication\bin\Debug\netcoreapp3.1\LoopApplication.runtimeconfig.json
+C:\Users\Steph\OneDrive\Documents\Code_Projects\ForEach_Application\LoopApplication\LoopApplication\bin\Debug\netcoreapp3.1\LoopApplication.runtimeconfig.dev.json
+C:\Users\Steph\OneDrive\Documents\Code_Projects\ForEach_Application\LoopApplication\LoopApplication\bin\Debug\netcoreapp3.1\LoopApplication.dll
+C:\Users\Steph\OneDrive\Documents\Code_Projects\ForEach_Application\LoopApplication\LoopApplication\bin\Debug\netcoreapp3.1\LoopApplication.pdb
+C:\Users\Steph\OneDrive\Documents\Code_Projects\ForEach_Application\LoopApplication\LoopApplication\obj\Debug\netcoreapp3.1\LoopApplication.csproj.AssemblyReference.cache
+C:\Users\Steph\OneDrive\Documents\Code_Projects\ForEach_Application\LoopApplication\LoopApplication\obj\Debug\netcoreapp3.1\LoopApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Steph\OneDrive\Documents\Code_Projects\ForEach_Application\LoopApplication\LoopApplication\obj\Debug\netcoreapp3.1\LoopApplication.AssemblyInfoInputs.cache
+C:\Users\Steph\OneDrive\Documents\Code_Projects\ForEach_Application\LoopApplication\LoopApplication\obj\Debug\netcoreapp3.1\LoopApplication.AssemblyInfo.cs
+C:\Users\Steph\OneDrive\Documents\Code_Projects\ForEach_Application\LoopApplication\LoopApplication\obj\Debug\netcoreapp3.1\LoopApplication.csproj.CoreCompileInputs.cache
+C:\Users\Steph\OneDrive\Documents\Code_Projects\ForEach_Application\LoopApplication\LoopApplication\obj\Debug\netcoreapp3.1\LoopApplication.dll
+C:\Users\Steph\OneDrive\Documents\Code_Projects\ForEach_Application\LoopApplication\LoopApplication\obj\Debug\netcoreapp3.1\LoopApplication.pdb
+C:\Users\Steph\OneDrive\Documents\Code_Projects\ForEach_Application\LoopApplication\LoopApplication\obj\Debug\netcoreapp3.1\LoopApplication.genruntimeconfig.cache
